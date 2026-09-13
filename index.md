@@ -6,7 +6,7 @@ title: Wesley Ward
 # Wesley Ward
 ### About Me
 
-I use gentoo linux (btw), and I am working on my own distribution called ZerraOS.
+I use gentoo linux (btw), and I am working on my own distribution called Zerra OS.
 
 ---
 
