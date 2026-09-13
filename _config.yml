@@ -1,0 +1,10 @@
+remote_theme: foursixnine/moonwalk-tokyonight
+plugins:
+  - jekyll-remote-theme
+
+title: Wesley Ward
+description: Software & Systems Engineer
+
+theme_config:
+  appearance: dark
+  palette: moon
