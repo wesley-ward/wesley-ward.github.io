@@ -4,22 +4,22 @@ title: Wesley Ward
 ---
 
 # Wesley Ward
-### Software & Systems Engineer
+### About Me
 
-I build backend systems, automation tools, and software infrastructure. I like building minimalist tools and working directly in the terminal.
+I use gentoo linux (btw), and I am working on my own distribution called ZerraOS.
 
 ---
 
 ### Links
-* **GitHub:** [://github.com/wesley-ward](https://://github.com/wesley-ward)
-* **Email:** wesley@wesleyward.dev
+* **GitHub:** [://github.com](https://://github.com)
+* **Email:** [wesley@wesleyward.dev](mailto:wesley@wesleyward.dev)
 
 ---
 
 ### What I Use
 
 ```bash
-\$ uname -a --skills
+\$ ls -lah /usr/bin
 ```
 * **Languages:** Python, Go, Rust, C, Bash
 * **Tools & OS:** Linux, Docker, Git, Shell Environments
@@ -27,15 +27,9 @@ I build backend systems, automation tools, and software infrastructure. I like b
 
 ---
 
-### Zerra OS
+### Projects
 
-I am building **Zerra OS**, an init-agnostic, declarative Linux distribution focused on user freedom. 
-
-```bash
-\$ zerra --info
-```
-* **Declarative System:** Configured entirely via declarative files, allowing you to easily reproduce or scale your setup.
-* **Custom Package Manager:** Built a custom manager and language that lets the system seamlessly compile packages from source or pull pre-compiled binaries.
-* **Init Agnostic:** Uses custom translation layers, allowing you to switch or use different init systems without breaking the distribution.
+#### Zerra OS
+An init-agnostic, declarative Linux distribution focused on user freedom. It features a custom package manager and language for handling both source and binary builds, utilizing translation layers to swap between different init systems seamlessly. *(Separate site coming soon)*
 
 ---
